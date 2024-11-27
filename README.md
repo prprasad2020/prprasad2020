@@ -1,11 +1,11 @@
 # 👋 Hallo, I'm Priyankar!
 
-🚀 **AWS & Kubernetes Certified DevOps Engineer**
+💻 **DevOps Engineer**
 
 ---
 
 ## 🛠️ About Me
-With over **8 years of experience** in **DevOps, Platform Engineering, and Cloud Technologies**, I thrive on designing scalable infrastructure and implementing automation to enhance productivity. I specialize in **Infrastructure as Code (IaC)**, **Continuous Integration/Continuous Deployment (CI/CD)** pipelines, and building robust platforms with modern tools.
+With over **8 years of experience** in **DevOps and Platform Engineering and Cloud Technologies**, I thrive on designing scalable infrastructure and implementing automation to enhance productivity. I specialize in **Infrastructure as Code (IaC)**, **Continuous Integration/Continuous Deployment (CI/CD)** pipelines, and building robust platforms with modern tools.
 
 ---
 
