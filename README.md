@@ -17,8 +17,8 @@ With over **8 years of experience** in **DevOps and Platform Engineering and Clo
 - **CI/CD**: GitLab CI, GitHub Actions, ArgoCD, FluxCD 
 
 ### **Programming & Scripting**
-- **Languages**: Python, TypeScript, JavaScript, Go  
-- **Scripting**: Bash  
+- **Languages**(_foundational knowledge_): TypeScript, JavaScript, Go, Python
+- **Scripting**: Bash, Python
 
 ### **Monitoring & Observability**
 - **Tools**: DataDog, Prometheus/Cortex, Zabbix, ELK Stack, Dynatrace, New Relic  
