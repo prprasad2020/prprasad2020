@@ -1,4 +1,4 @@
-# 👋 Hallo, I'm Priyankar!
+# 👋 Hallo, I'm Prasad!
 
 💻 **DevOps Engineer**
 
@@ -17,11 +17,11 @@ With over **8 years of experience** in **DevOps and Platform Engineering and Clo
 - **CI/CD**: GitLab CI, GitHub Actions, ArgoCD, FluxCD 
 
 ### **Programming & Scripting**
-- **Languages**(_foundational knowledge_): TypeScript, JavaScript, Go, Python
+- **Languages**(_working knowledge_): TypeScript, JavaScript, Go, Python
 - **Scripting**: Bash, Python
 
 ### **Monitoring & Observability**
-- **Tools**: DataDog, Prometheus/Cortex, Zabbix, ELK Stack, Dynatrace, New Relic  
+- **Tools**: DataDog, Prometheus/Cortex, Grafana, Zabbix, ELK Stack, Dynatrace, New Relic  
 
 ---
 
